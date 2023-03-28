@@ -1,0 +1,5 @@
+- 사실 문서 보면 다 나옴. 그냥 까먹기 쉬운 거 모아둔 거
+- 로컬에서 자주 실행하면서 깜박하는 것
+    - authorization code flow, PKCE인 경우, Standard Flow Enable 옵션 `ON`
+    - Valid Redirect URIs에 사용할 리다이렉트 URI 입력 후 저장. 이 URI는 인증 후 사용자가 리다이렉트될 주소
+    - 진짜 자꾸 깜빡하는 것 : Realm Setting > Login에서 `Email as username` 안 하면 로그인 이메일로 안 받아줌
