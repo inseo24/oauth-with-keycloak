@@ -1,5 +1,8 @@
 - reference
     - [OktaDev OAuth 2.0 and OpenID Connect](https://www.youtube.com/watch?v=996OiexHze0&ab_channel=OktaDev)
+    - [Auth0 Docs](https://auth0.com/docs/get-started/authentication-and-authorization-flow/authorization-code-flow)
+    - <img width="776" alt="image" src="https://user-images.githubusercontent.com/84627144/228293623-0bb94ed7-c5bf-475c-aa35-db7bcc162a30.png">
+
 
 
 - Access Token, ID Token, Refresh Token
